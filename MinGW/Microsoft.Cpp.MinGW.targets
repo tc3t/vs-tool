@@ -45,6 +45,7 @@
         EchoCommandLines                   ="%(ClCompile.EchoCommandLines)"
         GenerateDependencyFiles            ="false"
         GCCToolPath                        ="$(GccCompiler)"
+		ProgramDataBaseFileName            =""
         PropertyXmlFile                    ="$(VCTargetsPath)\Platforms\MinGW\Props\mingw_compile.xml"
     >
     </GCCCompile>
